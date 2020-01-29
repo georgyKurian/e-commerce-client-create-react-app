@@ -1,3 +1,13 @@
+# e-commerce Client CRA
+
+Client applicatiion for the e-commerce.
+
+[Demo App Link](https://e-commerce-client-next.herokuapp.com/)
+
+## Technologies
+
+- [Tailwind CSS](https://tailwindcss.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
