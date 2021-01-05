@@ -6,7 +6,7 @@
   "description": "create-react-app front-end for the e-commerce site",
   "author": "Georgi Kurian",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "lodash": "^4.17.15",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
